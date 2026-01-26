@@ -4,18 +4,19 @@
     "url": "$MAIL_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mailserver",
-    "status": "up",
-    "uptime": "93.26%",
+    "status": "down",
+    "uptime": "93.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.06%",
-    "uptimeYear": "93.26%",
+    "uptimeYear": "93.33%",
     "time": 1175,
     "timeDay": 1396,
     "timeWeek": 1152,
     "timeMonth": 1080,
     "timeYear": 1175,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2026-01-13": 849,
       "2025-12-22": 130,
       "2025-12-15": 39,
@@ -32,18 +33,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "40.12%",
+    "uptime": "39.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "45.43%",
-    "uptimeYear": "40.12%",
+    "uptimeYear": "39.68%",
     "time": 899,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 950,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2026-01-26": 106,
+      "2026-01-26": 1114,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
@@ -93,7 +94,7 @@
     "url": "web.kuntzschi.me",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -104,6 +105,8 @@
     "timeWeek": 212,
     "timeMonth": 204,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-26": 0
+    }
   }
 ]
